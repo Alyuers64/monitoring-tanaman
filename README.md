@@ -6,4 +6,4 @@
 
 ---
 # Deskripsi
-Kode ini hanya sebuah berisi simulasi sederhana untuk kirim dan menarima data dari mikrokonroler. Selengkapnya, baca fle `baca-dulu.txt`
+Kode ini hanya sebuah berisi simulasi sederhana untuk kirim dan menerima data dari mikrokontroler. Selengkapnya, baca fle `baca-dulu.txt`
